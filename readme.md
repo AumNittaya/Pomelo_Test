@@ -1,4 +1,4 @@
-# How to execute automated script
+# How to Execute Automated Script
 
 ## Installation Guide
 
